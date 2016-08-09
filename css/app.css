@@ -17,3 +17,27 @@ html {
 	font-family: Montserrat, serif;
 	color: white;
 }
+
+footer {
+  font-family: Fauna One, serif;
+  position:fixed;
+  bottom:0;
+  color: white;
+}
+
+footer {
+    font-family: Fauna One, serif;
+    color: white;
+    float: right;
+    height: 50px;
+    text-align: right;
+    width: 100%;
+}
+
+.likeUs {
+    margin-right: 30px;
+}
+
+.fa-github {
+  color: white;
+}
